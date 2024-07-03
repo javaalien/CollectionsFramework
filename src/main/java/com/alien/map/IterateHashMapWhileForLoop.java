@@ -1,4 +1,4 @@
-package com.alien;
+package com.alien.map;
 
 import java.util.HashMap;
 import java.util.Iterator;
