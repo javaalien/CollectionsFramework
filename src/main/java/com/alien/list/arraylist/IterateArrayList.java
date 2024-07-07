@@ -1,4 +1,4 @@
-package com.alien.list;
+package com.alien.list.arraylist;
 
 import java.util.ArrayList;
 import java.util.List;
