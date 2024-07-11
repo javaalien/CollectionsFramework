@@ -1,4 +1,4 @@
-package com.alien.set;
+package com.alien.hashset;
 
 import java.util.HashSet;
 import java.util.Set;
